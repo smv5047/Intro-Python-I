@@ -3,6 +3,6 @@
 
 # YOUR CODE HERE
 
-bigNumber = 2**65536
+big_number = 2**65536
 
-print(bigNumber)
+print(big_number)
